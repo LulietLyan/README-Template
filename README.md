@@ -25,6 +25,10 @@
     alt="issues" >
     <img src="https://img.shields.io/github/forks/LulietLyan/README-Template?style=for-the-badge&color=%23187777" 
     alt="forks" >
+    <img src="https://img.shields.io/badge/Contributions-Welcome-%23028745?style=for-the-badge&labelColor=%23b08f42"
+    alt="contribution"/>
+    <img src="https://img.shields.io/badge/Star-IfYouLike-%23067897?style=for-the-badge&labelColor=%23879078"
+    alt="star"/>
     <img src="https://img.shields.io/github/license/LulietLyan/README-Template?style=for-the-badge"
     alt="license" >
 </p>
