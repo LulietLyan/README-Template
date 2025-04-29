@@ -14,8 +14,7 @@
 </div>
 
 <p align="center"> 
-    <img src="https://img.shields.io/github/followers/LulietLyan?label=Followers&style=for-the-badge&color=purple"
-    alt="github follow"/>
+    <img src="https://img.shields.io/github/followers/LulietLyan?label=Followers&style=for-the-badge&color=purple"alt="github follow"/>
     <img src="https://img.shields.io/github/stars/LulietLyan/README-Template?label=Stars&style=for-the-badge"
     alt="github repo stars" >
     <img src="https://img.shields.io/github/contributors/LulietLyan/README-Template?style=for-the-badge&logoColor=%23985684"
@@ -37,17 +36,17 @@
 
 <img src="./image/line-neon.gif" width=100%><br>
 
-# 目录
-- [目录](#目录)
+# 📕 目录
+- [📕 目录](#-目录)
 - [🤔 项目背景](#-项目背景)
   - [设计理念](#设计理念)
 - [😋 快速上手指南](#-快速上手指南)
   - [环境准备](#环境准备)
 - [❓ 待办事项](#-待办事项)
 - [🤝 代码贡献](#-代码贡献)
-  - [代码贡献者](#代码贡献者)
-- [联系作者](#联系作者)
-- [授权说明](#授权说明)
+  - [代码贡献人员](#代码贡献人员)
+- [❓ 联系作者](#-联系作者)
+- [❗ 授权说明](#-授权说明)
 
 # 🤔 项目背景
 
@@ -121,7 +120,7 @@
 4. 将修改后的项目**推送**到您 Fork 的仓库中
 5. **Pull Request** 至本仓库等待合并
 
-## 代码贡献者
+## 代码贡献人员
 
 <a href="https://github.com/LulietLyan/README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LulietLyan/README-Template" alt="contrib.rocks image" />
@@ -129,7 +128,7 @@
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-# 联系作者
+# ❓ 联系作者
 
 - **项目维护者**：您的姓名  
 - **社交媒体**：[@您的推特](https://twitter.com/your_username)  
@@ -138,7 +137,7 @@
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-# 授权说明
+# ❗ 授权说明
 
 本项目采用 MIT LICENSE 开源协议（公有领域授权），完整授权条款请参见项目根目录下的 `LICENSE.txt` 文件。
 
