@@ -45,7 +45,8 @@
 - [🤔 项目背景](#-项目背景)
   - [设计理念](#设计理念)
 - [😋 快速上手指南](#-快速上手指南)
-  - [环境准备](#环境准备)
+  - [克隆仓库](#克隆仓库)
+  - [开始项目](#开始项目)
 - [❓ 待办事项](#-待办事项)
 - [🤝 代码贡献](#-代码贡献)
   - [代码贡献人员](#代码贡献人员)
@@ -72,42 +73,38 @@
 
 # 😋 快速上手指南
 
-以下演示如何快速完成项目本地化部署，五步配置流程助您轻松搭建开发环境。
+以下演示如何快速完成项目本地化部署，助您轻松使用 **README\.md** 模板。
 
-## 环境准备
+## 克隆仓库
 
-请确保系统中已安装下列基础组件（附安装指引）：
-* Node 包管理器
-  ```sh
-  npm install npm@latest -g
+作者已经将本项目设置为模板，每次建立新的仓库时可以指定使用本模板，无需手动复制粘贴。貌似被设置为模板的项目在被 **Fork** 时也是模板的状态，因此在您 Fork 后可以轻松地使用本模板。
 
-## 部署流程
+点击 [Fork](https://github.com/LulietLyan/README-Template/fork) 按钮将项目拉取至您的仓库。
 
-本模板无需依赖任何外部服务，遵循以下标准配置流程即可完成初始化：
+## 开始项目
 
-1. 克隆项目仓库
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. 安装依赖包
-   ```sh
-   npm install
-   ```
-3. 在配置文件中添加 API 凭证
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-4. 重置 Git 远程仓库地址（防止误操作推送代码）
-   ```sh
-    git remote set-url origin github_username/repo_name
-    git remote -v # confirm the changes
-   ```
+1. **克隆到本地**
+  ```bash
+    git clone https://github.com/你的用户名/README-Template.git
+    cd README-Template
+  ```
+2. **修改模板内容**
+  编辑 **README\.md** 文件，按照您的项目需求调整内容。
+3. **提交更改**
+  ```bash
+    git add .
+    git commit -m "docs: 更新README内容"
+    git push origin main
+  ```
+4. **在项目中使用**
+  直接作为项目主文档
+  或复制模板内容到其他项目的 **README\.md**
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 # ❓ 待办事项
 
-- [x] 中文版本
+- [√] 中文版本
 - [ ] English Version
 - [ ] 能否实现工具化
 
